@@ -31,3 +31,16 @@
     > ```
     >
     > 
+
+- java程序的执行原理
+
+  > 
+
+- java： JDK组成，跨平台原理
+
+> 
+
+- JDK安装后Path和Java_home环境变量
+- 
+
+- java的IDEA开发工具
