@@ -61,7 +61,7 @@
 >
 > 以上所有组成 jdk（java开发工具包）： java development kit
 >
-> ![](/Users/guohaojin/Documents/Java/imgs/0-jdk组成.png)
+> ![](../imgs/0-jdk组成.png)
 
 > Java的跨平台
 >
