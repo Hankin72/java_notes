@@ -91,14 +91,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 - java的IDEA开发工具
+
+- intelliJ IDEA  
+
+  ![](../imgs/0-idea.png)
+
+  ![](../imgs/0-idea1.png)
+
+  ![](../imgs/0-idea2.png)
+
+  
