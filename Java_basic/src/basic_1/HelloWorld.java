@@ -1,7 +1,5 @@
 package basic_1;
 
-import javax.swing.text.StyleContext;
-
 public class HelloWorld {
     // main
     // sout
