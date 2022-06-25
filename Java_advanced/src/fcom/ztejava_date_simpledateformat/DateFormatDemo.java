@@ -1,4 +1,4 @@
-package fcom.ztejava_date_calendar;
+package fcom.ztejava_date_simpledateformat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
